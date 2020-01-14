@@ -1,0 +1,48 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://download.frp2019.tk:8880/ipa/klxfz2.0.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://im5.tongbu.com:80/userapp/AppIcon/202001/14/0357526.jpg</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://im5.tongbu.com:80/userapp/AppIcon/202001/14/0357526.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.cracknet.klxfz2</string>
+				<key>bundle-version</key>
+				<string>2.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>恐龙驯服者2.0</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
