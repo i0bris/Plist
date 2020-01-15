@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.frp2019.tk:8880/ipa/blqz.ipa</string>
+					<string>https://qm235.leaderhero.com/Publish/202001/14/21/20200114215550_com.gameinsight.gobios_CVD86X45GB_e3bf.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://im5.tongbu.com/adverting/201912/aef35704-4.jpg</string>
+					<string>http://im5.tongbu.com:80/adverting/201912/aef35704-4.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://im5.tongbu.com/adverting/201912/aef35704-4.jpg</string>
+					<string>http://im5.tongbu.com:80/adverting/201912/aef35704-4.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
