@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://download.frp2019.tk:8880/ipa/yxgc.ipa</string>
+                    <string>https://qm33.leaderhero.com/Publish/202004/18/23/20200418233508_co.momentlens.moment_CVD86X45GB_9310.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://im5.tongbu.com/userapp/AppIcon/202001/14/040305540.jpg</string>
+                    <string>https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ed/86/ce/ed86ce07-b653-d683-e25b-481ba66223b1/source/100x100bb.jpg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://im5.tongbu.com/userapp/AppIcon/202001/14/040305540.jpg</string>
+                    <string>https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ed/86/ce/ed86ce07-b653-d683-e25b-481ba66223b1/source/100x100bb.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -31,11 +31,11 @@
                 <key>bundle-identifier</key>
                 <string>1</string>
                 <key>bundle-version</key>
-                <string>1.0.11</string>
+                <string>4.0.2</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>英雄工厂</string>
+                <string>Pro Camera by Moment</string>
             </dict>
         </dict>
     </array>
