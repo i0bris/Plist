@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://qm235.leaderhero.com/Publish/202001/14/21/20200114215550_com.gameinsight.gobios_CVD86X45GB_e3bf.ipa</string>
+					<string>https://qm32.leaderhero.com/PublishSea/202004/21/02/20200421024858_gemini.ProCam-2_CVD86X45GB_fb55.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://im5.tongbu.com:80/adverting/201912/aef35704-4.jpg</string>
+					<string>http://im5.tongbu.com/adverting/201911/5c6eb201-4.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://im5.tongbu.com:80/adverting/201912/aef35704-4.jpg</string>
+					<string>http://im5.tongbu.com/adverting/201911/5c6eb201-4.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>com.gameinsight.gobios</string>
 				<key>bundle-version</key>
-				<string>12.2.32</string>
+				<string>12.5.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>爆裂枪战</string>
+				<string>ProCam 7 Hack</string>
 			</dict>
 		</dict>
 	</array>
