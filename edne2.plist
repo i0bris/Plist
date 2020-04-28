@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://qm227.leaderhero.com/Publish/202004/26/00/20200426004038_games.wfs.anothereden_CVD86X45GB_a814.ipa</string>
+                    <string>https://qm227.leaderhero.com/Publish/202004/26/00/20200426004038_games.wfs.anothereden_CVD86X45GB_a814.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string></string>
+                    <string>https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=623125404,3999732593&fm=11&gp=0.jpg</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string></string>
+                    <string>https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=623125404,3999732593&fm=11&gp=0.jpg</string>
                 </dict>
             </array>
             <key>metadata</key>
